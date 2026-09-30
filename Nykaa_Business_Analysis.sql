@@ -1,6 +1,6 @@
 /* ==========================================================
    NYKAA BUSINESS GROWTH & PROFITABILITY ANALYSIS
-   Author: Paras Dhawan
+   Author: Aakarshan Goyal
    Tool: PostgreSQL (pgAdmin)
    Dataset: nykaa_dashboard_view
    ========================================================== */

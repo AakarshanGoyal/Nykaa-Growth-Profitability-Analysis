@@ -281,16 +281,16 @@ Continue margin expansion · Focus on operational efficiency · Balance topline 
 
 <div align="center">
 
-### Paras Dhawan
+### Aakarshan Goyal
 **Aspiring Business Analyst · Data Analyst · Power BI Developer**
 
 *Passionate about transforming business data into actionable insights through analytics, storytelling, and executive-focused dashboards.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-dhawan-7a6312304/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ParasDhawan25)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhawanparas2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakarshan-goyal-7a6312304/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AakarshanGoyal25)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakarshangoyalsirsa@gmail.com)
 
 <br/>
 
